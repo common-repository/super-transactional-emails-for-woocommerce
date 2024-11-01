@@ -1,0 +1,8 @@
+span.stewoo-unit{
+	position: relative;
+	top: -6px;
+	font-weight: bold;
+}
+.customize-control-code_editor .CodeMirror {
+	height: 30em;
+}

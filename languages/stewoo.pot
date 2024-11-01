@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-09-22 18:36+0200\n"
+"PO-Revision-Date: 2016-09-22 18:36+0200\n"
+"Last-Translator: Boris Colombier <bc@wba.fr>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: super-transactional-email.php\n"
+"X-Poedit-SearchPath-1: inc/class-stewoo-products.php\n"
+"X-Poedit-SearchPath-2: inc/class-stewoo-sections.php\n"
+"X-Poedit-SearchPath-3: inc/class-stewoo-custom-controls.php\n"
+"X-Poedit-SearchPath-4: inc/class-stewoo-controls.php\n"
+"X-Poedit-SearchPath-5: inc/stewoo-options-page.php\n"
+"X-Poedit-SearchPath-6: inc/email-styles.php\n"
+"X-Poedit-SearchPath-7: inc/class-stewoo-admin.php\n"
+"X-Poedit-SearchPath-8: inc/class-stewoo-settings.php\n"
+"X-Poedit-SearchPath-9: inc/class-stewoo-template.php\n"
+"X-Poedit-SearchPath-10: inc/class-stewoo-api.php\n"
+"X-Poedit-SearchPath-11: inc/EDD_SL_Plugin_Updater.php\n"
+"X-Poedit-SearchPath-12: uninstall.php\n"
+
+#: inc/EDD_SL_Plugin_Updater.php:196
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:204
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:358
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:358
+msgid "Error"
+msgstr ""
+
+#: inc/class-stewoo-admin.php:45
+msgid "Super Transactional Emails for WooCommerce"
+msgstr ""
+
+#: inc/class-stewoo-admin.php:46
+msgid "Super Emails"
+msgstr ""
+
+#: inc/class-stewoo-admin.php:97 inc/class-stewoo-admin.php:104
+#: inc/class-stewoo-admin.php:152
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: inc/class-stewoo-admin.php:119
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: inc/class-stewoo-admin.php:126
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: inc/class-stewoo-admin.php:131
+msgid "Invalid license."
+msgstr ""
+
+#: inc/class-stewoo-admin.php:137
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: inc/class-stewoo-admin.php:142
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: inc/class-stewoo-admin.php:147
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: inc/class-stewoo-api.php:154
+msgid ""
+"You must have at least one valid order in WooCommerce to preview emails."
+msgstr ""
+
+#: inc/class-stewoo-api.php:236
+msgid "Sorry, an error occurred."
+msgstr ""
+
+#: inc/class-stewoo-api.php:237
+msgid "Email Sent."
+msgstr ""
+
+#: inc/class-stewoo-api.php:238
+msgid "Please click on save/publish before sending the test email"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:36
+msgid "Base Colour"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:42
+msgid "Background Colour"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:48
+msgid "Body Background Colour"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:54
+msgid "Body Text Colour"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:60
+msgid "Footer Text"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:65 inc/class-stewoo-controls.php:293
+#: inc/class-stewoo-controls.php:313
+msgid "You can use HTML tags"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:71
+msgid "Header Image"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:78
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:84
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:90
+msgid "Header Font Size"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:103
+msgid "Header Padding"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:119
+msgid "Top Text Color"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:125
+msgid "Top Text Font Size"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:138
+msgid "Top Text Padding"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:151
+msgid "Show images on items order list"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:159
+msgid "Order Details Vertical Spacing"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:173
+msgid "Order # to preview"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:182
+msgid "Product quantity"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:247
+msgid "Specific Products"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:264
+msgid "Internal CSS code"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:269
+msgid ""
+"This code is combined in HTML tags style attribut."
+msgstr ""
+
+#: inc/class-stewoo-controls.php:275
+msgid "Inline Style Sheet code"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:280
+msgid ""
+"This code is include between &lt;style&gt;&lt;/style&gt; tag in HTML email &lt;"
+"head&gt; section."
+msgstr ""
+
+#: inc/class-stewoo-controls.php:288
+msgid "Title"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:296
+msgid "Display Title"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:303 inc/class-stewoo-controls.php:323
+#: inc/class-stewoo-controls.php:335 inc/class-stewoo-controls.php:348
+#: inc/class-stewoo-controls.php:361 inc/class-stewoo-controls.php:388
+msgid "Yes"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:304 inc/class-stewoo-controls.php:324
+#: inc/class-stewoo-controls.php:336 inc/class-stewoo-controls.php:349
+#: inc/class-stewoo-controls.php:362 inc/class-stewoo-controls.php:389
+msgid "No"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:308
+msgid "Subtitle"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:316
+msgid "Display Subtitle"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:328
+msgid "Display Products Names"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:341
+msgid "Show Products Prices"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:354
+msgid "Show Products Descriptions"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:367
+msgid "Products Description Length"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:381
+msgid "Show Products Buttons"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:394
+msgid "Products Buttons Text"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:404
+msgid "Suggested Products Zone"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:410
+msgid "Before Order Details"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:411
+msgid "After Order Details"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:416
+msgid "Title Color"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:421
+msgid "Title Background Color"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:426
+msgid "Title Font Size"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:439
+msgid "Subtitle Color"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:444
+msgid "Subtitle Background Color"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:449
+msgid "Subtitle Font Size"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:462
+msgid "Subtitle Position"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:468
+msgid "Before Suggested Products"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:469
+msgid "After Suggested Products"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:475
+msgid "Main Background Colour"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:481
+msgid "Product Title Color"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:486
+msgid "Product Title Font Size"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:499
+msgid "Product Price Color"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:504
+msgid "Product Price Font Size"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:517
+msgid "Product Description Color"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:522
+msgid "Product Description Font Size"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:535
+msgid "Product Button Color"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:540
+msgid "Product Button Background Color"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:545
+msgid "Product Button Font Size"
+msgstr ""
+
+#: inc/class-stewoo-controls.php:559 inc/class-stewoo-custom-controls.php:160
+#: inc/class-stewoo-sections.php:63
+msgid "Send Test Email"
+msgstr ""
+
+#: inc/class-stewoo-custom-controls.php:48
+msgid "Products selection rules"
+msgstr ""
+
+#: inc/class-stewoo-custom-controls.php:140
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: inc/class-stewoo-products.php:107 inc/class-stewoo-settings.php:172
+msgid "Check out our other products"
+msgstr ""
+
+#: inc/class-stewoo-products.php:108 inc/class-stewoo-settings.php:182
+msgid "We have made this selection for you according to your tastes"
+msgstr ""
+
+#: inc/class-stewoo-sections.php:14
+msgid "Suggested Products Selection"
+msgstr ""
+
+#: inc/class-stewoo-sections.php:21
+msgid "Suggested Products Infos"
+msgstr ""
+
+#: inc/class-stewoo-sections.php:28
+msgid "WooCommerce Base Design"
+msgstr ""
+
+#: inc/class-stewoo-sections.php:35
+msgid "Header Design"
+msgstr ""
+
+#: inc/class-stewoo-sections.php:42
+msgid "Body Design"
+msgstr ""
+
+#: inc/class-stewoo-sections.php:49
+msgid "Suggested Products Design"
+msgstr ""
+
+#: inc/class-stewoo-sections.php:56
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/class-stewoo-settings.php:217 inc/class-stewoo-template.php:109
+msgid "view more"
+msgstr ""
+
+#: inc/stewoo-options-page.php:101 inc/stewoo-options-page.php:152
+msgid "License Key"
+msgstr ""
+
+#: inc/stewoo-options-page.php:110
+msgid "Customize Emails"
+msgstr ""
+
+#: inc/stewoo-options-page.php:112
+msgid "Email type to preview"
+msgstr ""
+
+#: inc/stewoo-options-page.php:125
+msgid "Embed images"
+msgstr ""
+
+#: inc/stewoo-options-page.php:126
+msgid "This option may not work depending of your smtp settings."
+msgstr ""
+
+#: inc/stewoo-options-page.php:130
+msgid "Add suggested products on email template:"
+msgstr ""
+
+#: inc/stewoo-options-page.php:149
+msgid "License"
+msgstr ""
+
+#: inc/stewoo-options-page.php:165
+msgid "Backup/Restore Design Settings"
+msgstr ""
+
+#: inc/stewoo-options-page.php:167
+msgid "Use these buttons to export or import customizer settings"
+msgstr ""
+
+#: inc/stewoo-options-page.php:169
+msgid "Export Customizer Settings"
+msgstr ""
+
+#: inc/stewoo-options-page.php:171
+msgid "Import Customizer Settings from Selected File"
+msgstr ""
+
+#: super-transactional-email.php:66
+msgid ""
+"Super Transactional Emails for WooCommerce requires WooCommerce to be "
+"installed and active."
+msgstr ""
+
+#: super-transactional-email.php:70
+msgid ""
+"WooCommerce 2.3 is required for Super Emails for WooCommerce to run, so "
+"please update to the latest stable version of WooCommerce."
+msgstr ""
+
+msgid "Random Products"
+msgstr ""
